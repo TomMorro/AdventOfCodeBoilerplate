@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "algebra.js": "^0.2.6",
+    "fs": "^0.0.1-security"
+  }
+}
